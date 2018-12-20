@@ -10,7 +10,7 @@ import java.security.interfaces.RSAPublicKey;
 public class RSAHelper {
 	 
 	/**
-	 * rsa 加密     (公钥加密)
+	 * rsa加密     (公钥加密)
 	 * @param content  明文内容
 	 * @param rsaPublickeyStr  公钥字符串
 	 * @return  加密结果 
